@@ -1,0 +1,17 @@
+D:\backend_projects\first\age\age\bin\Debug\net6.0-windows\age.exe
+D:\backend_projects\first\age\age\bin\Debug\net6.0-windows\age.deps.json
+D:\backend_projects\first\age\age\bin\Debug\net6.0-windows\age.runtimeconfig.json
+D:\backend_projects\first\age\age\bin\Debug\net6.0-windows\age.dll
+D:\backend_projects\first\age\age\bin\Debug\net6.0-windows\age.pdb
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.csproj.AssemblyReference.cache
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.Form1.resources
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.csproj.GenerateResource.cache
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.AssemblyInfoInputs.cache
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.AssemblyInfo.cs
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.csproj.CoreCompileInputs.cache
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.dll
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\refint\age.dll
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.pdb
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\age.genruntimeconfig.cache
+D:\backend_projects\first\age\age\obj\Debug\net6.0-windows\ref\age.dll
