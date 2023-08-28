@@ -3,7 +3,7 @@
 #### the program calculate the days and monthes and years of total days with c# 
 #### the very easy task to learn c# 
 
-####  [it's the same problem](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R)
+####  [it's the same problem](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R) in the codeforces
 ####  [code in c++](https://pastebin.com/KnAXwpHW)
 
 
